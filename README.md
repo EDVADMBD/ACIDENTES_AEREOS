@@ -1,34 +1,32 @@
 # ACIDENTES_AEREOS
-Tragédia Aérea e Projeto de Prevenção em Aviação
-Na manhã de sexta-feira, 7 de fevereiro de 2025, São Paulo se despertou com uma tragédia que abalou a cidade. Um avião de pequeno porte, modelo King Air F90, decolou do Aeroporto Campo de Marte às 7h17, com destino a Porto Alegre. A bordo estavam o advogado Márcio Louzada Carpena, proprietário da comissão, e o piloto Gustavo Carneiro Medeiros.
+# Storytelling: Análise dos Países com Maiores Índices de Segurança em Acidentes Aéreos
+A segurança aérea é um fator essencial na avaliação da aviação global, e a classificação dos países quanto à segurança em acidentes aéreos pode nos proporcionar uma visão clara sobre as regiões mais seguras para os viajantes. A análise a seguir explora os índices de segurança em acidentes aéreos de 17 países, destacando os 15 países com os melhores desempenhos.
 
-Apenas um minuto após a descolagem, a aeronave apresentou problemas ainda não esclarecidos, resultando em uma tentativa de pouso forçada. O avião colidiu com uma árvore e, em seguida, caiu um ônibus que transportava cerca de 30 passageiros na Avenida Marquês de São Vicente, na Barra Funda, Zona Oeste da capital paulista. O impacto causou uma explosão imediata, gerando uma densa nuvem de fumaça negra que poderia ser vista a quilômetros de distância.
+# Metodologia de Análise
+#Fonte dos Dados : Uma análise baseada em índices de segurança aérea de diversos países. Os dados utilizados nesta análise são fictícios e representam um exemplo de como a segurança aérea é medida em diferentes nações.
 
-Infelizmente, tanto Márcio quanto Gustavo faleceram no local, vítimas das chamas que consumiram a fuselagem. Seis pessoas que estavam no ônibus sofreram ferimentos, enquanto outra foi atendida devido a uma crise de ansiedade. As vítimas foram rapidamente socorridas e encaminhadas aos hospitais próximos.
+# Método de Análise :
 
-O ônibus do ônibus, em um ato de bravura, conseguiu evacuar os passageiros antes que o fogo se alastrasse, evitando uma tragédia ainda maior. As autoridades locais, incluindo o Corpo de Bombeiros e a Polícia Militar, isolaram uma área para a realização dos procedimentos de resgate e investigação.
+Foi criado um DataFrame com os países e seus respectivos índices de segurança aérea, expressos em porcentagem (quanto maior o valor, melhor o desempenho na segurança aérea).
+A classificação foi realizada com a função sort_values(), para ordenar os países de acordo com os melhores índices de segurança, do maior para o menor.
+Apenas os 15 principais países com os maiores índices de segurança foram selecionados para análise visual.
+Ferramentas Utilizadas :
 
-Desenvolvimento do Projeto de Prevenção
-Esse acidente reforça a importância do desenvolvimento e da implementação de sistemas inteligentes de prevenção em aviação. Com base em estudos detalhados e tecnologias de monitoramento, foi criado um projeto de simulação que busca reduzir os principais fatores causadores de acidentes aéreos.
+Pandas : Para manipulação de dados e criação do DataFrame.
+Matplotlib : Para visualização dos dados em um gráfico de barras horizontais, que permite comparar de forma clara os índices de segurança entre os países.
+Python : Uma linguagem de programação que utilizamos para realizar a análise e gerar os gráficos.
+Resultados da Análise
+O gráfico gerado mostra os 15 países com os melhores índices de segurança em acidentes aéreos , em ordem decrescente de segurança. Entre eles, podemos observar países com destaque global em termos de aviação, como Canadá, Japão, Suíça, Reino Unido e Estados Unidos , todos com índices acima de 94%.
 
-Principais Investimentos Preventivos:
+A visualização apresenta claramente os países com os melhores desempenhos, permitindo uma rapidez em comparação com os índices de segurança. Países como Brasil , França , Irlanda , Venezuela e Áustria figuraram entre os primeiros, demonstrando um excelente nível de segurança em seus sistemas de aviação.
 
-Erro Humano:
+# Percepções
+O Brasil aparece entre os 5 principais países com maior índice de segurança, com um valor de 95,1% .
+Países da Europa como França , Irlanda , e Reino Unido também se destacam, com valores próximos ou acima de 96%.
+Países como Rússia e China apresentam índices mais baixos, o que pode sugerir desafios adicionais em termos de segurança aérea.
+Gráfico Final
+O gráfico gerou a visualização desses índices e classificação dos países de acordo com os valores de segurança, permitindo identificar rapidamente os países com melhores e piores desempenhos em relação à segurança em acidentes aéreos.
 
-Treinamento intensivo para pilotos e equipe de solo com simulações de falhas reais.
-Desenvolvimento de sistemas automatizados para auxiliar na tomada de decisões críticas.
-Falha Mecânica:
-
-Manutenção preditiva por meio de sensores que monitoram componentes da aeronave em tempo real.
-Revisão e análise de dados históricos de desempenho das aeronaves.
-Clima:
-
-Implementação de radares meteorológicos avançados para previsão precisa de tempestades.
-Alertas automáticos integrados ao sistema de controle de voo.
-Sabotagem:
-
-Reforço na segurança aeroportuária com inteligência artificial para detecção de comportamentos suspeitos.
-Revisão rigorosa de bagagens e controle de acessos.
 
 #Fontes de pesquisas:
 https://g1.globo.com/politica/noticia/2025/02/07/acidentes-aereos-e-mortes-tem-aumentando-no-brasil-nos-ultimos-anos-veja-numeros-da-fab.ghtml
@@ -37,4 +35,5 @@ https://dados.gov.br/dados/reuso/3#:~:text=O%20Painel%20SIPAER%20%C3%A9%20uma,se
 
 
 # Conclusão
-A tragédia da última sexta-feira reforça a necessidade de ações efetivas e contínuas para garantir a segurança aérea. A combinação de tecnologia, treinamento e protocolos rigorosos pode salvar vidas e evitar
+Conclusão
+Esses gráficos e análise fornecem uma visão clara sobre os países com maior segurança aérea, uma informação valiosa para viajantes, autoridades da aviação e especialistas no setor. A partir desta análise, podemos refletir sobre os fatores que afetam os altos índices de segurança nesses países, como infraestrutura, regulamentações rigorosas e treinamento contínuo de equipes.
