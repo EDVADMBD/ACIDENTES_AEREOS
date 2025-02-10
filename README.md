@@ -38,3 +38,7 @@ https://dados.gov.br/dados/reuso/3#:~:text=O%20Painel%20SIPAER%20%C3%A9%20uma,se
 # Conclusão
 Conclusão
 Esses gráficos e análise fornecem uma visão clara sobre os países com maior segurança aérea, uma informação valiosa para viajantes, autoridades da aviação e especialistas no setor. A partir desta análise, podemos refletir sobre os fatores que afetam os altos índices de segurança nesses países, como infraestrutura, regulamentações rigorosas e treinamento contínuo de equipes.
+
+# Veja o Link do projeto:
+https://github.com/EDVADMBD/ACIDENTES_AEREOS/blob/main/Projeto_aereo.ipynb
+
