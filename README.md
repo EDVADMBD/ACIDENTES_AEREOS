@@ -34,3 +34,7 @@ Revisão rigorosa de bagagens e controle de acessos.
 https://g1.globo.com/politica/noticia/2025/02/07/acidentes-aereos-e-mortes-tem-aumentando-no-brasil-nos-ultimos-anos-veja-numeros-da-fab.ghtml
 painel Ocorrências Aeronáuticas na Aviação Civil Brasileira
 https://dados.gov.br/dados/reuso/3#:~:text=O%20Painel%20SIPAER%20%C3%A9%20uma,ser%20dinamicamente%20modificados%20com%20filtros.&text=Nenhuma%20imagem%20de%20re%C3%BAso.
+
+
+# Conclusão
+A tragédia da última sexta-feira reforça a necessidade de ações efetivas e contínuas para garantir a segurança aérea. A combinação de tecnologia, treinamento e protocolos rigorosos pode salvar vidas e evitar
