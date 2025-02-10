@@ -3,7 +3,7 @@
 A segurança aérea é um fator essencial na avaliação da aviação global, e a classificação dos países quanto à segurança em acidentes aéreos pode nos proporcionar uma visão clara sobre as regiões mais seguras para os viajantes. A análise a seguir explora os índices de segurança em acidentes aéreos de 17 países, destacando os 15 países com os melhores desempenhos.
 
 # Metodologia de Análise
-#Fonte dos Dados : Uma análise baseada em índices de segurança aérea de diversos países. Os dados utilizados nesta análise são fictícios e representam um exemplo de como a segurança aérea é medida em diferentes nações.
+# Fonte dos Dados : Uma análise baseada em índices de segurança aérea de diversos países. Os dados utilizados nesta análise são fictícios e representam um exemplo de como a segurança aérea é medida em diferentes nações.
 
 # Método de Análise :
 
