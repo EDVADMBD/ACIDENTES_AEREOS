@@ -32,7 +32,8 @@ O gráfico gerou a visualização desses índices e classificação dos países 
 #Fontes de pesquisas:
 https://g1.globo.com/politica/noticia/2025/02/07/acidentes-aereos-e-mortes-tem-aumentando-no-brasil-nos-ultimos-anos-veja-numeros-da-fab.ghtml
 painel Ocorrências Aeronáuticas na Aviação Civil Brasileira
-https://dados.gov.br/dados/reuso/3#:~:text=O%20Painel%20SIPAER%20%C3%A9%20uma,ser%20dinamicamente%20modificados%20com%20filtros.&text=Nenhuma%20imagem%20de%20re%C3%BAso.
+
+[https://dados.gov.br/](https://dados.gov.br/dados/conjuntos-dados/ocorrencias-aeronauticas-da-aviacao-civil-brasileira)
 
 
 # Conclusão
